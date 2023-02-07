@@ -16,7 +16,7 @@ import seaborn as sns; sns.set(style="ticks", color_codes=True)
 
 
 #reading the dataset file through pandas library
-data = pd.read_csv('C:\\Users\\nadaa\\Desktop\\Seed_Data.csv')
+data = pd.read_csv('\Seed_Data.csv')
 
 
 # In[3]:
